@@ -58,9 +58,5 @@ local/components/orbitsoft/amo.form/logs/*
 local/params/env/env.php
 local/params/env/env_config.local.php
 sftp-config.json
-<<<<<<< HEAD
-cgi-bin
-=======
 cgi-bin
 /upload/
->>>>>>> 19c927bea65183f2ac2717ac62d0736d96873698
